@@ -1,6 +1,6 @@
 # Speed-Typing-Python
 A Speed Typing Test in Python.
 
-#Requirments
+# Requirments
 - Python 3.x
 - curses
